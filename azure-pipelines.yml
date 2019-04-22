@@ -22,5 +22,5 @@ steps:
 
 - task: GitHubRelease@0
   inputs:
-    githubConnection: silviofilipe23
+    githubConnection: 74b00edd8311f8693cb44c52e597556db8c70865
     action: 'create'
